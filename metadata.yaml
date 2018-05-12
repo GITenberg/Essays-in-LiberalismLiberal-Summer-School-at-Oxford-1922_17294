@@ -1,0 +1,40 @@
+_repo: Essays-in-LiberalismLiberal-Summer-School-at-Oxford-1922_17294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2005-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17294'
+  lccn: '23009669'
+language: en
+publication_note: 'London :  W. Collins Sons & Co. Ltd.,  c1922'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1910-1936'
+- !lcc 'JN'
+- !lcsh 'Liberalism -- Great Britain'
+tableOfContents: The League of Nations and the rehabilitation of Europe, by R. Cecil
+  -- The balance of power, by A. F. Pollard -- International disarmament, by Sir F.
+  Maurice -- Reparations and inter-allied debt, by J. M. Keynes -- The outlook for
+  national finance, by J. Stamp -- Free trade, by J. M. Robertson -- India, by H.
+  Grant -- Egypt, by J. A. Spender -- The machinery of government, by R. Muir -- The
+  state and industry, by W. T. Layton -- The regulation of wages, by L. T. Hobhouse
+  -- Unemployment, by H. D. Henderson -- The problem of the mines, by A. D. McNair
+  -- The land question, by A. S. C. Carr -- Agricultural questions, by F. D. Acland.
+title: 'Essays in Liberalism
+
+  Being the Lectures and Papers Which Were Delivered at the
+
+  Liberal Summer School at Oxford, 1922'
+url: http://www.gutenberg.org/ebooks/17294
